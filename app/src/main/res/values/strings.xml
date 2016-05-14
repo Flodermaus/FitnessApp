@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="action_settings">Settings</string>
+    <string name="x">Stop</string>
+    <string name="xx">Start</string>
+    <string name="title_activity_data_collection">DataCollection</string>
+    <string name="title_activity_exercise">Exercise</string>
+    <string name="title_activity_graph__view">Graph_View</string>
+</resources>
